@@ -1,3 +1,11 @@
 # Document_Project
-ระบบแปลง “ข้อมูลที่กรอกในช่องว่าง (Form-fill Data)” ให้เป็นไฟล์เอกสารสำเร็จรูป (Word/PDF)
-ghfddsgf
+
+Simple HTML + JavaScript demo:
+- Type text into the textarea.
+- Click **Confirm**.
+- The browser generates a `.txt` file containing your input and automatically downloads it.
+
+## Usage
+
+1. Clone or download this repo.
+2. Open `index.html` in any modern browser.
